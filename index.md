@@ -29,4 +29,4 @@ If you're new to CRC-SC's Microsoft 365 environment, start with the **Setup & Ac
 
 ## Need Help?
 
-If you can't find what you're looking for, reach out to your CRC-SC IT contact or [open an issue on GitHub](https://github.com/yarma/crc-sc-help/issues).
+If you can't find what you're looking for, reach out to your CRC-SC IT contact or [open an issue on GitHub](https://github.com/yarmand/crc-sc-help/issues).

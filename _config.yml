@@ -1,7 +1,7 @@
 title: CRC-SC Help Center
 description: Microsoft 365 documentation for CRC-SC board members
 baseurl: /crc-sc-help
-url: https://yarma.github.io
+url: https://yarmand.github.io
 
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
@@ -12,7 +12,7 @@ search.heading_level: 3
 # Aux links (top-right)
 aux_links:
   "View on GitHub":
-    - "https://github.com/yarma/crc-sc-help"
+    - "https://github.com/yarmand/crc-sc-help"
 
 # Footer
 footer_content: "CRC-SC Help Center &mdash; Helping board members get the most out of Microsoft 365."

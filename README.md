@@ -2,7 +2,7 @@
 
 A GitHub Pages site with documentation to help CRC-SC board members use Microsoft 365.
 
-🔗 **Live site**: [https://yarma.github.io/crc-sc-help](https://yarma.github.io/crc-sc-help)
+🔗 **Live site**: [https://yarmand.github.io/crc-sc-help](https://yarmand.github.io/crc-sc-help)
 
 ## Topics Covered
 
