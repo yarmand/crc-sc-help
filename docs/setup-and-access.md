@@ -7,68 +7,33 @@ permalink: /docs/setup-and-access
 ---
 
 # Setup & Account Access
-{: .no_toc }
+This guide will explain your initial setup for your crc-sc account, based on your personal email address.
+Please follow those steps:
+1. You will receive an invitation in your email inbox __(check for Spam)__.
 
-How to sign in to your CRC-SC Microsoft 365 account and secure it.
-{: .fs-6 .fw-300 }
+   The title of hte email should be `Yann Armand invited you to access applications within their organization`
 
-<details open markdown="block">
-  <summary>Table of contents</summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+1. click the link **accept invitation** from the email
+# Setup of your guest acount
+
+1. The link is getting you to Microsoft 365 to create the account
+1. 1st you will be ask to send a code to verify your email address
+1. wait for the code in your email inbox __(check for spam)__
+
+   the email should be titled: `Your Stanwood Camano Community Resource Center account verification code`
+  
+1. enter the code in your browser
+2. click the `sign in` button
+3. accept the requeted permission for the CRC org to read your account infos
+
+<img width="904" height="1280" alt="image" src="https://gist.github.com/user-attachments/assets/4c5e5bf4-67ad-4972-9e88-550dbd6be26e" />
+
+4. ignore any other info aftert this page. Do not close the browser
 
 ---
 
-## Your Account Credentials
+**Congratulation you are all done**
 
-When you join the CRC-SC board, you'll receive a Microsoft 365 account:
+feel free to acess the [Board of Directors documents library](https://crcscorg.sharepoint.com/:f:/r/sites/BoardOfDirectors/Shared%20Documents/BOD-Shared-documents?csf=1&web=1&e=49C3IM)
 
-- **Username**: `[REPLACE: e.g. yourname@crc-sc.org]`
-- **Temporary password**: Provided by your IT contact
-
-You'll be asked to change your password the first time you sign in.
-
-## Signing In for the First Time
-
-1. Go to [https://portal.office.com](https://portal.office.com).
-2. Enter your CRC-SC email address and click **Next**.
-3. Enter the temporary password and click **Sign in**.
-4. Follow the prompts to **set a new password**.
-   - Use at least 12 characters with a mix of letters, numbers, and symbols.
-5. You'll be redirected to the Microsoft 365 home page.
-
-## Setting Up Multi-Factor Authentication (MFA)
-
-MFA adds an extra layer of security to your account. You'll be prompted to set it up after your first sign-in.
-
-1. Download the **Microsoft Authenticator** app on your phone:
-   - [App Store (iPhone)](https://apps.apple.com/app/microsoft-authenticator/id983156458)
-   - [Google Play (Android)](https://play.google.com/store/apps/details?id=com.azure.authenticator)
-2. When prompted, open the Authenticator app and tap **+ Add account** → **Work or school account**.
-3. Scan the QR code displayed on screen.
-4. Approve the test notification to complete setup.
-
-{: .important }
-> Always keep the Authenticator app installed on your phone. You'll need it every time you sign in from a new device.
-
-## Resetting Your Password
-
-If you forget your password:
-
-1. Go to [https://passwordreset.microsoftonline.com](https://passwordreset.microsoftonline.com).
-2. Enter your CRC-SC email and complete the CAPTCHA.
-3. Follow the steps to verify your identity (via Authenticator or email).
-4. Choose a new password.
-
-If self-service reset is not available, contact your CRC-SC IT contact for assistance.
-
-## Installing Microsoft 365 Apps (Optional)
-
-You can use M365 entirely in the browser, but you can also install desktop apps:
-
-1. Sign in at [https://portal.office.com](https://portal.office.com).
-2. Click **Install Microsoft 365** (top-right corner).
-3. Run the downloaded installer and follow the prompts.
-4. Sign in with your CRC-SC account when the apps open.
+This should let you in, or ask you again a code sent by email before letting you access to the Board of Directors files.
