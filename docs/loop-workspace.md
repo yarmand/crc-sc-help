@@ -1,0 +1,84 @@
+---
+layout: default
+title: Loop Workspace
+nav_order: 5
+permalink: /docs/loop-workspace
+---
+
+# Loop Workspace
+{: .no_toc }
+
+How to collaborate in real-time using Microsoft Loop.
+{: .fs-6 .fw-300 }
+
+<details open markdown="block">
+  <summary>Table of contents</summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
+
+## What Is Microsoft Loop?
+
+Microsoft Loop is a collaborative tool that lets you create **workspaces** and **pages** where board members can work together in real time. Think of it as a shared notebook that everyone can edit simultaneously.
+
+Key concepts:
+
+| Term | Description |
+|:-----|:------------|
+| **Workspace** | A shared space for a project or team (e.g., "CRC-SC Board") |
+| **Page** | A single document inside a workspace (e.g., "Feb 2026 Meeting Agenda") |
+| **Component** | A reusable piece of content (table, task list, checklist) that can be embedded in Teams, Outlook, and other M365 apps |
+
+## Accessing Loop
+
+1. Go to [https://loop.microsoft.com](https://loop.microsoft.com).
+2. Sign in with your CRC-SC account.
+3. You'll see any workspaces that have been shared with you.
+
+## Navigating Your Workspace
+
+- **Left sidebar**: Lists all workspaces you belong to.
+- Click a workspace to see its pages.
+- Click a page to open and edit it.
+
+{: .note }
+> Your CRC-SC workspace is: `[REPLACE: e.g. "CRC-SC Board" workspace]`
+
+## Creating a New Page
+
+1. Open your workspace.
+2. Click **+ New page** at the top or bottom of the page list.
+3. Give the page a title (e.g., "March 2026 Action Items").
+4. Start typing — other board members with access will see changes in real time.
+
+## Using Loop Components
+
+Loop components are interactive building blocks you can add to any page:
+
+- **Task list**: Assign tasks to board members with due dates.
+- **Table**: Organize information in rows and columns.
+- **Checklist**: Track to-do items.
+- **Voting table**: Collect quick votes or feedback.
+
+To add a component:
+1. Type `/` on a new line to open the component menu.
+2. Select the type of component you want.
+3. Fill it in — it's live and collaborative.
+
+## Sharing Loop Components in Teams or Email
+
+One of Loop's most powerful features is that components can be **embedded** in Teams messages and Outlook emails — and they stay in sync everywhere.
+
+1. Hover over a component and click the **share** icon.
+2. Copy the link.
+3. Paste it into a Teams message or Outlook email.
+4. Recipients can edit the component right from where they see it.
+
+## Tips for Board Use
+
+- **Meeting agendas**: Create a Loop page for each meeting. Add a task list for action items.
+- **Decision tracking**: Use a table component to log decisions, who made them, and when.
+- **Async collaboration**: Board members in different time zones can contribute at their own pace.
