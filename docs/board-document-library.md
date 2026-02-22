@@ -22,9 +22,11 @@ How to find, upload, and organize board documents in SharePoint.
 
 ## Accessing the Document Library
 
-1. Go to your CRC-SC SharePoint site: `[REPLACE: e.g. https://crc-sc.sharepoint.com/sites/Board]`
+[📂 Open the Board Document Library](https://crcscorg.sharepoint.com/:f:/r/sites/BoardOfDirectors/Shared%20Documents/BOD-Shared-documents?csf=1&web=1&e=PFagqd){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+1. Click the link above or go to the [Board of Directors SharePoint site](https://crcscorg.sharepoint.com/sites/BoardOfDirectors).
 2. Click **Documents** in the left sidebar.
-3. You'll see folders organized by category (e.g., Meeting Minutes, Policies, Financial Reports).
+3. You'll see folders organized by category (e.g., Finances, Operations, Policies).
 
 {: .note }
 > You can also access the document library directly from the **Files** tab in your Teams channel.
@@ -42,10 +44,11 @@ Common folders you'll find:
 
 | Folder | Contents |
 |:-------|:---------|
-| `[REPLACE: e.g. Meeting Minutes]` | Notes from board meetings |
-| `[REPLACE: e.g. Policies]` | Bylaws, policies, and procedures |
-| `[REPLACE: e.g. Financial Reports]` | Budgets, treasurer reports, audits |
-| `[REPLACE: e.g. Strategic Plans]` | Long-term planning documents |
+| Finances | Budgets, treasurer reports, audits |
+| Operations | Meeting minutes, committee reports |
+| Policies | Bylaws, policies, and procedures |
+| Archives | Documents prior to our M365 migration (pre-2026) |
+| **Meeting Agendas & Minutes** | Now located in the [Loop Workspace](loop-workspace) — see the Board Life section |
 
 ## Uploading Documents
 
