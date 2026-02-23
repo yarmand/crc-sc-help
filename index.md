@@ -11,6 +11,9 @@ permalink: /
 Everything you need to get started with Microsoft 365 as a CRC-SC board member.
 {: .fs-6 .fw-300 }
 
+[📂 Document Library](https://crcscorg.sharepoint.com/:f:/r/sites/BoardOfDirectors/Shared%20Documents/BOD-Shared-documents?csf=1&web=1&e=PFagqd){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[🔗 Board Workspace](https://loop.cloud.microsoft/join/eyJnIjoiVDBSVFVIeGpjbU56WTI5eVp5NXphR0Z5WlhCdmFXNTBMbU52Ylh4aUlXYzBOMGhQTkZwdFVEQkxVRU5pWVhoUmNHaHlUbmg1YkZwcGRHOXpXbVJPYVdwamJYSTJiQzF4TVdvMVkxOVBlVFZOWW1OUmNHcFVaRm8wTmxCdmRYbDhNREV6TlRkUVJrZERVVlJUVUZsTFYxRkRTVVpGV2tWSE5FZFFTa0ZGUjFKTlVRPT0iLCJpIjoiSGEyUUp3TkYwaXFjUlM4TUlTTEZRIiwidyI6IlQwUlRVSHhqY21OelkyOXlaeTV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJV2MwTjBoUE5GcHRVREJMVUVOaVlYaFJjR2h5VG5oNWJGcHBkRzl6V21ST2FXcGpiWEkyYkMxeE1XbzFZMTlQZVRWTlltTlJjR3BVWkZvME5sQnZkWGw4TURFek5UZFFSa2REVVZSVFVGbExWMUZEU1VaRldrVkhORWRRU2tGRlIxSk5VUT09In0%3D){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+
 ---
 
 **New here?** Start with the [Setup & Account Access](docs/setup-and-access) guide to sign in and secure your account.
