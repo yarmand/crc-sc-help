@@ -85,13 +85,13 @@ To share a document link with another board member:
 1. Click the **three dots (⋯)** next to the file.
 2. Select **Share**.
 
-![SharePoint Share dialog](/assets/images/share-dialog.png)
+![SharePoint Share dialog](/crc-sc-help/assets/images/share-dialog.png)
 *The Share dialog in SharePoint — click the link settings to change who can access the file.*
 {: .text-center }
 
 3. **Important**: Before sending, click the link settings (the gear or pencil icon next to the link) and select **"Only people with existing access"**.
 
-![Selecting the sharing permission](/assets/images/share-permissions.png)
+![Selecting the sharing permission](/crc-sc-help/assets/images/share-permissions.png)
 *Make sure to select "Only people with existing access" to avoid sharing beyond the board.*
 {: .text-center }
 
