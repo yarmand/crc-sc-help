@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Teams
+title: Online Meetings
 nav_order: 6
 permalink: /docs/teams
 ---
 
-# Microsoft Teams
+# Online Meetings
 {: .no_toc }
 
-How to chat, meet, and collaborate with fellow board members in Teams.
+How to create, run, and follow up on board meetings using Microsoft Teams.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
@@ -20,86 +20,95 @@ How to chat, meet, and collaborate with fellow board members in Teams.
 
 ---
 
-## Getting Started with Teams
+## Getting Started
 
 1. Go to [https://teams.microsoft.com](https://teams.microsoft.com) or open the Teams desktop/mobile app.
 2. Sign in with your CRC-SC account.
-3. You should see the CRC-SC team(s) you've been added to.
+3. Click **Calendar** in the left sidebar — this is where you'll create and join all board meetings.
+
+---
+
+## Creating a Meeting
+
+1. In the **Calendar** view, click **+ New meeting**.
+2. Add a **title** (e.g., "CRC-SC Board Meeting — March 2026").
+3. Set the **date and time**.
+4. In the **Add attendees** field, type each board member's **email address**.
 
 {: .note }
-> If you don't see any teams, ask your CRC-SC IT contact to add you to the appropriate team.
+> Board members use guest accounts. Make sure to invite them using the email address associated with their guest account — they will receive a calendar invite with a join link.
 
-## Understanding Teams, Channels, and Chats
-
-| Concept | Description |
-|:--------|:------------|
-| **Team** | A group of people (e.g., "CRC-SC Board") |
-| **Channel** | A topic area within a team (e.g., "General", "Finance", "Events") |
-| **Chat** | A private conversation with one or more people |
-
-## Navigating Channels
-
-- Click **Teams** in the left sidebar to see your teams.
-- Click a team name to expand its channels.
-- Click a channel to view messages and files shared there.
-
-### Key Channels
-
-| Channel | Purpose |
-|:--------|:--------|
-| `[REPLACE: e.g. General]` | General board discussions |
-| `[REPLACE: e.g. Finance]` | Budget and financial matters |
-| `[REPLACE: e.g. Events]` | Event planning and coordination |
-
-## Posting Messages
-
-1. Open a channel.
-2. Click the message box at the bottom.
-3. Type your message and press **Enter** to send.
-
-**Tips:**
-- Use **@mention** (e.g., `@Jane Smith`) to notify a specific person.
-- Use **@channel** to notify everyone in the channel.
-- Click the **format** button (A with a paintbrush) for rich text, bullet points, and headings.
-
-## Starting a Chat
-
-1. Click **Chat** in the left sidebar.
-2. Click **New chat** (pencil icon at the top).
-3. Type the name(s) of the person(s) you want to message.
-4. Type your message and press **Enter**.
-
-## Joining and Scheduling Meetings
-
-### Joining a Meeting
-
-- When a meeting starts, you'll see a **Join** button in the channel or calendar.
-- Click **Join** → choose your audio/video settings → click **Join now**.
-
-### Scheduling a Meeting
-
-1. Click **Calendar** in the left sidebar.
-2. Click **+ New meeting**.
-3. Add a title, date/time, and attendees.
-4. Optionally select a channel to post the meeting in.
 5. Click **Send**.
 
-## Finding and Sharing Files
+---
 
-Every channel has a **Files** tab where shared documents are stored:
+## Starting the Meeting and Admitting Attendees
 
-1. Open a channel.
-2. Click the **Files** tab at the top.
-3. Upload files by clicking **Upload** or dragging files into the window.
+### As the organizer
+
+1. When it's time, open your **Calendar** and click **Join** on the meeting.
+2. Choose your audio and video settings, then click **Join now**.
+
+### Admitting people from the lobby
+
+Since board members are guest accounts, they will appear in the **lobby** when they try to join.
+
+- You'll see a notification at the top of the meeting window: **"Someone is waiting in the lobby"**.
+- Click **View lobby** to see who is waiting.
+- Click **Admit** next to each person, or click **Admit all** to let everyone in at once.
 
 {: .important }
-> Files shared in a channel are stored in SharePoint. You can also access them from the [Board Document Library](board-document-library).
+> Only the meeting organizer (or a co-organizer) can admit people from the lobby. Make sure you've joined the meeting before the scheduled start time so attendees aren't kept waiting.
+
+---
+
+## During the Meeting
+
+### Basic controls
+
+| Control | How to use it |
+|:--------|:-------------|
+| **Mute / Unmute** | Click the microphone icon in the meeting toolbar |
+| **Camera on / off** | Click the camera icon |
+| **Share screen** | Click the **Share** button (↑) and select your screen or a specific window |
+| **Raise hand** | Click the **Raise hand** button to signal you'd like to speak |
+
+### Starting a transcript
+
+1. Click **⋯ (More)** in the meeting toolbar.
+2. Select **Record and transcribe** → **Start transcription**.
+3. The transcript runs in real time and captures who said what.
+
+{: .note }
+> You can also start a **recording** from the same menu if you want a video replay in addition to the transcript.
+
+---
+
+## After the Meeting
+
+### Finding the transcript
+
+Once the meeting ends, the transcript is available in two places:
+
+- In the **meeting chat** in Teams.
+- In the **meeting details** on your Calendar (click the meeting → scroll down).
+
+### Getting a summary and follow-up tasks
+
+Paste the transcript into **Copilot** (in Teams, if available) or **ChatGPT** and ask for:
+
+- A **summary** of what was discussed.
+- A **list of follow-up tasks** with who is responsible.
+
+This is a quick way to produce meeting minutes and action items for the board.
+
+---
 
 ## Teams Mobile App
 
-Install the Teams mobile app to stay connected on the go:
+Install the Teams mobile app to join meetings on the go:
 
 - [App Store (iPhone)](https://apps.apple.com/app/microsoft-teams/id1113153706)
 - [Google Play (Android)](https://play.google.com/store/apps/details?id=com.microsoft.teams)
 
-Sign in with your CRC-SC account. You'll receive notifications for messages and meetings.
+Sign in with your CRC-SC account. You'll receive notifications when meetings are about to start.
