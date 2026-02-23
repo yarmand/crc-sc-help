@@ -56,6 +56,20 @@ Common folders you'll find:
 - Your changes are **saved automatically**.
 - Multiple people can edit the same document at the same time.
 
+## Commenting on Documents
+
+You can leave comments directly in Word, Excel, or PowerPoint Online without editing the document itself:
+
+1. **Select** the text or cell you want to comment on.
+2. Right-click and choose **New comment** (or click the **Comment** button in the toolbar).
+3. Type your comment and click **Post**.
+
+- Other board members will see your comment and can **reply** or **resolve** it.
+- Use **@mentions** (e.g., `@Jane Smith`) inside a comment to notify a specific person.
+
+{: .note }
+> Comments are a great way to suggest changes or ask questions without modifying the document content.
+
 ## Version History
 
 SharePoint keeps a history of every change:
