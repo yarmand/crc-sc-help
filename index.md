@@ -92,4 +92,4 @@ For more in-depth information, check out the detailed guides:
 - [Loop Workspace](docs/loop-workspace) — collaborating in real-time with Microsoft Loop
 - [Teams](docs/teams) — chat, meetings, and file sharing
 
-If you can't find what you're looking for, email your CRC-SC site administrator or [open an issue on GitHub](https://github.com/yarmand/crc-sc-help/issues).
+If you can't find what you're looking for, email [yann](mailto:yann.armand@gmail.com)
