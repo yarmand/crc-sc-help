@@ -32,20 +32,13 @@ Key concepts:
 | **Page** | A single document inside a workspace (e.g., "Feb 2026 Meeting Agenda") |
 | **Component** | A reusable piece of content (table, task list, checklist) that can be embedded in Teams, Outlook, and other M365 apps |
 
-## Accessing Loop
+## Accessing the Board Workspace
 
-1. Go to [https://loop.microsoft.com](https://loop.microsoft.com).
-2. Sign in with your CRC-SC account.
-3. You'll see any workspaces that have been shared with you.
+[🔗 Open the Board Workspace](https://loop.cloud.microsoft/join/eyJnIjoiVDBSVFVIeGpjbU56WTI5eVp5NXphR0Z5WlhCdmFXNTBMbU52Ylh4aUlXYzBOMGhQTkZwdFVEQkxVRU5pWVhoUmNHaHlUbmg1YkZwcGRHOXpXbVJPYVdwamJYSTJiQzF4TVdvMVkxOVBlVFZOWW1OUmNHcFVaRm8wTmxCdmRYbDhNREV6TlRkUVJrZERVVlJUVUZsTFYxRkRTVVpGV2tWSE5FZFFTa0ZGUjFKTlVRPT0iLCJpIjoiSGEyUUp3TkYwaXFjUlM4TUlTTEZRIiwidyI6IlQwUlRVSHhqY21OelkyOXlaeTV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJV2MwTjBoUE5GcHRVREJMVUVOaVlYaFJjR2h5VG5oNWJGcHBkRzl6V21ST2FXcGpiWEkyYkMxeE1XbzFZMTlQZVRWTlltTlJjR3BVWkZvME5sQnZkWGw4TURFek5UZFFSa2REVVZSVFVGbExWMUZEU1VaRldrVkhORWRRU2tGRlIxSk5VUT09In0%3D){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
 
-## Navigating Your Workspace
-
-- **Left sidebar**: Lists all workspaces you belong to.
-- Click a workspace to see its pages.
-- Click a page to open and edit it.
-
-{: .note }
-> Your CRC-SC workspace is: [Open the Board Workspace](https://loop.cloud.microsoft/join/eyJnIjoiVDBSVFVIeGpjbU56WTI5eVp5NXphR0Z5WlhCdmFXNTBMbU52Ylh4aUlXYzBOMGhQTkZwdFVEQkxVRU5pWVhoUmNHaHlUbmg1YkZwcGRHOXpXbVJPYVdwamJYSTJiQzF4TVdvMVkxOVBlVFZOWW1OUmNHcFVaRm8wTmxCdmRYbDhNREV6TlRkUVJrZERVVlJUVUZsTFYxRkRTVVpGV2tWSE5FZFFTa0ZGUjFKTlVRPT0iLCJpIjoiSGEyUUp3TkYwaXFjUlM4TUlTTEZRIiwidyI6IlQwUlRVSHhqY21OelkyOXlaeTV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJV2MwTjBoUE5GcHRVREJMVUVOaVlYaFJjR2h5VG5oNWJGcHBkRzl6V21ST2FXcGpiWEkyYkMxeE1XbzFZMTlQZVRWTlltTlJjR3BVWkZvME5sQnZkWGw4TURFek5UZFFSa2REVVZSVFVGbExWMUZEU1VaRldrVkhORWRRU2tGRlIxSk5VUT09In0%3D)
+1. Click the link above to open the Board workspace.
+2. Sign in with your CRC-SC guest account.
+3. You'll see the workspace pages in the **left sidebar** — click any page to open and edit it.
 
 ## Creating a New Page
 
