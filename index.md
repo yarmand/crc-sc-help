@@ -45,12 +45,13 @@ This is our shared Loop workspace — the central hub for day-to-day board activ
 
 [🔗 Open the Board Workspace](https://loop.cloud.microsoft/join/eyJnIjoiVDBSVFVIeGpjbU56WTI5eVp5NXphR0Z5WlhCdmFXNTBMbU52Ylh4aUlXYzBOMGhQTkZwdFVEQkxVRU5pWVhoUmNHaHlUbmg1YkZwcGRHOXpXbVJPYVdwamJYSTJiQzF4TVdvMVkxOVBlVFZOWW1OUmNHcFVaRm8wTmxCdmRYbDhNREV6TlRkUVJrZERVVlJUVUZsTFYxRkRTVVpGV2tWSE5FZFFTa0ZGUjFKTlVRPT0iLCJpIjoiSGEyUUp3TkYwaXFjUlM4TUlTTEZRIiwidyI6IlQwUlRVSHhqY21OelkyOXlaeTV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJV2MwTjBoUE5GcHRVREJMVUVOaVlYaFJjR2h5VG5oNWJGcHBkRzl6V21ST2FXcGpiWEkyYkMxeE1XbzFZMTlQZVRWTlltTlJjR3BVWkZvME5sQnZkWGw4TURFek5UZFFSa2REVVZSVFVGbExWMUZEU1VaRldrVkhORWRRU2tGRlIxSk5VUT09In0%3D){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
 
-Here you'll find:
-- **Committees notes** — each committee keeps its running notes and updates here.
-- **Virtual votes** — when we need a board decision outside of a meeting.
-- **Strategy dashboards** — follow progress on our strategic goals at a glance.
-- **Active projects** — see what's in flight and who's working on what.
-- **Board member assignments** — know your responsibilities and deadlines.
+| Section | What you'll find |
+|:--------|:-----------------|
+| Committees notes | Each committee keeps its running notes and updates here |
+| Virtual votes | Board decisions made outside of a meeting |
+| Strategy dashboards | Follow progress on our strategic goals at a glance |
+| Active projects | See what's in flight and who's working on what |
+| Board member assignments | Know your responsibilities and deadlines |
 
 📖 [Detailed Loop Workspace guide →](docs/loop-workspace)
 
