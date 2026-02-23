@@ -68,14 +68,27 @@ To add a component:
 2. Select the type of component you want.
 3. Fill it in — it's live and collaborative.
 
-## Sharing Loop Components in Teams or Email
+## Sharing Loop Pages and Components
 
-One of Loop's most powerful features is that components can be **embedded** in Teams messages and Outlook emails — and they stay in sync everywhere.
+You can share Loop pages or individual components with other board members:
 
-1. Hover over a component and click the **share** icon.
-2. Copy the link.
-3. Paste it into a Teams message or Outlook email.
-4. Recipients can edit the component right from where they see it.
+1. Click the **Share** button at the top of a page, or hover over a component and click the **share** icon.
+
+![SharePoint Share dialog](/crc-sc-help/assets/images/share-dialog.png)
+*The Share dialog in SharePoint — click the link settings to change who can access the file.*
+{: .text-center }
+
+2. **Important**: Before sending, click the link settings and select **"Only people with existing access"**.
+
+![Selecting the sharing permission](/crc-sc-help/assets/images/share-permissions.png)
+*Make sure to select "Only people with existing access" to avoid sharing beyond the board.*
+{: .text-center }
+
+3. Copy the link or enter the recipient's email and click **Send**.
+4. Loop components can be **embedded** in Teams messages and Outlook emails — and they stay in sync everywhere.
+
+{: .warning }
+> Always verify the sharing option is set to **"Only people with existing access"**. This ensures pages and components are not accidentally shared with people outside the board.
 
 ## Tips for Board Use
 
