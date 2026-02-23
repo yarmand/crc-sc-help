@@ -8,7 +8,7 @@ permalink: /docs/board-document-library
 # Board Document Library
 {: .no_toc }
 
-How to find, upload, and organize board documents in SharePoint.
+How to find, edit, and share board documents in SharePoint.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
@@ -50,15 +50,6 @@ Common folders you'll find:
 | Archives | Documents prior to our M365 migration (pre-2026) |
 | **Meeting Agendas & Minutes** | Now located in the [Loop Workspace](loop-workspace) — see the Board Life section |
 
-## Uploading Documents
-
-1. Navigate to the appropriate folder.
-2. Click **Upload** → **Files** (or drag and drop files into the browser window).
-3. Wait for the upload to complete — you'll see a confirmation.
-
-{: .important }
-> **Naming convention**: Use descriptive names like `2026-01-Board-Meeting-Minutes.docx` rather than `doc1.docx`.
-
 ## Editing Documents
 
 - Click any document to open it in the browser (Word, Excel, or PowerPoint Online).
@@ -75,12 +66,22 @@ SharePoint keeps a history of every change:
 
 ## Sharing Documents
 
-To share a document with someone outside the board:
+To share a document link with another board member:
 
 1. Click the **three dots (⋯)** next to the file.
 2. Select **Share**.
-3. Enter the recipient's email and set permissions (View only or Edit).
-4. Click **Send**.
+
+![SharePoint Share dialog](/assets/images/share-dialog.png)
+*The Share dialog in SharePoint — click the link settings to change who can access the file.*
+{: .text-center }
+
+3. **Important**: Before sending, click the link settings (the gear or pencil icon next to the link) and select **"Only people with existing access"**.
+
+![Selecting the sharing permission](/assets/images/share-permissions.png)
+*Make sure to select "Only people with existing access" to avoid sharing beyond the board.*
+{: .text-center }
+
+4. Copy the link or enter the recipient's email and click **Send**.
 
 {: .warning }
-> Be cautious when sharing documents externally. When in doubt, check with your CRC-SC IT contact first.
+> Always verify the sharing option is set to **"Only people with existing access"**. This ensures documents are not accidentally shared with people outside the board.
