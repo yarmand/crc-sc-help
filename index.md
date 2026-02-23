@@ -26,7 +26,16 @@ The document library is where the board creates, collaborates on, and stores all
 
 - Browse folders to find meeting minutes, budgets, bylaws, and more.
 - Upload new documents or edit existing ones directly in the browser — multiple people can work on the same file at once.
-- 📖 [Detailed Document Library guide →](docs/board-document-library)
+
+| Folder | Contents |
+|:-------|:---------|
+| Finances | Budgets, treasurer reports, audits |
+| Operations | Meeting minutes, committee reports |
+| Policies | Bylaws, policies, and procedures |
+| Archives | Documents prior to our M365 migration (pre-2026) |
+| **Meeting Agendas & Minutes** | Now located in the [Loop Workspace](docs/loop-workspace) — see the Board Life section |
+
+📖 [Detailed Document Library guide →](docs/board-document-library)
 
 ---
 
