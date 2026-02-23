@@ -45,7 +45,7 @@ Key concepts:
 - Click a page to open and edit it.
 
 {: .note }
-> Your CRC-SC workspace is: `[REPLACE: e.g. "CRC-SC Board" workspace]`
+> Your CRC-SC workspace is: [Open the Board Workspace](https://loop.cloud.microsoft/join/eyJnIjoiVDBSVFVIeGpjbU56WTI5eVp5NXphR0Z5WlhCdmFXNTBMbU52Ylh4aUlXYzBOMGhQTkZwdFVEQkxVRU5pWVhoUmNHaHlUbmg1YkZwcGRHOXpXbVJPYVdwamJYSTJiQzF4TVdvMVkxOVBlVFZOWW1OUmNHcFVaRm8wTmxCdmRYbDhNREV6TlRkUVJrZERVVlJUVUZsTFYxRkRTVVpGV2tWSE5FZFFTa0ZGUjFKTlVRPT0iLCJpIjoiSGEyUUp3TkYwaXFjUlM4TUlTTEZRIiwidyI6IlQwUlRVSHhqY21OelkyOXlaeTV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJV2MwTjBoUE5GcHRVREJMVUVOaVlYaFJjR2h5VG5oNWJGcHBkRzl6V21ST2FXcGpiWEkyYkMxeE1XbzFZMTlQZVRWTlltTlJjR3BVWkZvME5sQnZkWGw4TURFek5UZFFSa2REVVZSVFVGbExWMUZEU1VaRldrVkhORWRRU2tGRlIxSk5VUT09In0%3D)
 
 ## Creating a New Page
 

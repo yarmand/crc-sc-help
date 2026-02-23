@@ -34,7 +34,7 @@ The document library is where the board creates, collaborates on, and stores all
 
 This is our shared Loop workspace — the central hub for day-to-day board activity and tracking.
 
-[🔗 Open the Board Workspace]([REPLACE: Loop workspace URL]){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[🔗 Open the Board Workspace](https://loop.cloud.microsoft/join/eyJnIjoiVDBSVFVIeGpjbU56WTI5eVp5NXphR0Z5WlhCdmFXNTBMbU52Ylh4aUlXYzBOMGhQTkZwdFVEQkxVRU5pWVhoUmNHaHlUbmg1YkZwcGRHOXpXbVJPYVdwamJYSTJiQzF4TVdvMVkxOVBlVFZOWW1OUmNHcFVaRm8wTmxCdmRYbDhNREV6TlRkUVJrZERVVlJUVUZsTFYxRkRTVVpGV2tWSE5FZFFTa0ZGUjFKTlVRPT0iLCJpIjoiSGEyUUp3TkYwaXFjUlM4TUlTTEZRIiwidyI6IlQwUlRVSHhqY21OelkyOXlaeTV6YUdGeVpYQnZhVzUwTG1OdmJYeGlJV2MwTjBoUE5GcHRVREJMVUVOaVlYaFJjR2h5VG5oNWJGcHBkRzl6V21ST2FXcGpiWEkyYkMxeE1XbzFZMTlQZVRWTlltTlJjR3BVWkZvME5sQnZkWGw4TURFek5UZFFSa2REVVZSVFVGbExWMUZEU1VaRldrVkhORWRRU2tGRlIxSk5VUT09In0%3D){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 Here you'll find:
 - **Committees notes** — each committee keeps its running notes and updates here.
