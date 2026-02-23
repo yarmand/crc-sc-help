@@ -22,7 +22,7 @@ How to find, upload, and organize board documents in SharePoint.
 
 ## Accessing the Document Library
 
-[📂 Open the Board Document Library](https://crcscorg.sharepoint.com/:f:/r/sites/BoardOfDirectors/Shared%20Documents/BOD-Shared-documents?csf=1&web=1&e=PFagqd){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[📂 Open the Board Document Library](https://crcscorg.sharepoint.com/:f:/r/sites/BoardOfDirectors/Shared%20Documents/BOD-Shared-documents?csf=1&web=1&e=PFagqd){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
 
 1. Click the link above or go to the [Board of Directors SharePoint site](https://crcscorg.sharepoint.com/sites/BoardOfDirectors).
 2. Click **Documents** in the left sidebar.
