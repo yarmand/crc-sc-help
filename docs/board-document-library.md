@@ -6,6 +6,7 @@ permalink: /docs/board-document-library
 ---
 
 # Board Document Library
+
 {: .no_toc }
 
 How to find, edit, and share board documents in SharePoint.
@@ -22,13 +23,14 @@ How to find, edit, and share board documents in SharePoint.
 
 ## Accessing the Document Library
 
-[📂 Open the Board Document Library](https://crcscorg.sharepoint.com/:f:/r/sites/BoardOfDirectors/Shared%20Documents/BOD-Shared-documents?csf=1&web=1&e=PFagqd){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" }
+[📂 Open the Board Document Library](https://crcscorg.sharepoint.com/:f:/r/sites/BoardOfDirectors/Shared%20Documents/BOD-Shared-documents?csf=1&web=1&e=PFagqd){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="\_blank" }
 
 1. Click the link above or go to the [Board of Directors SharePoint site](https://crcscorg.sharepoint.com/sites/BoardOfDirectors).
 2. Click **Documents** in the left sidebar.
 3. You'll see folders organized by category (e.g., Finances, Operations, Policies).
 
 {: .note }
+
 > You can also access the document library directly from the **Files** tab in your Teams channel.
 
 ## Finding Documents
@@ -42,12 +44,12 @@ How to find, edit, and share board documents in SharePoint.
 
 Common folders you'll find:
 
-| Folder | Contents |
-|:-------|:---------|
-| Finances | Budgets, treasurer reports, audits |
-| Operations | Meeting minutes, committee reports |
-| Policies | Bylaws, policies, and procedures |
-| Archives | Documents prior to our M365 migration (pre-2026) |
+| Folder                        | Contents                                                                         |
+| :---------------------------- | :------------------------------------------------------------------------------- |
+| Finances                      | Budgets, treasurer reports, audits                                               |
+| Operations                    | Meeting minutes, committee reports                                               |
+| Policies                      | Bylaws, policies, and procedures                                                 |
+| Archives                      | Documents prior to our M365 migration (pre-2026)                                 |
 | **Meeting Agendas & Minutes** | Now located in the [Loop Workspace](loop-workspace) — see the Board Life section |
 
 ## Editing Documents
@@ -57,14 +59,16 @@ Common folders you'll find:
 - Multiple people can edit the same document at the same time.
 
 ## Edit Documents using desktop application
+
 IF you prefer the convinience of using your laptop application to edit board documents, do the following:
+
 - locate the document in the library using your web browser
 - open it in the browser
 - use the **open in desktop** button (see screenshot below)
 - when you save the document from hte laptop application, it will automatically update the online version
-- __Warning__: Do not Save As on the desktop application, this would create a local copy that is not synced with the cloud version.
+- **Warning**: Do not Save As on the desktop application, this would create a local copy that is not synced with the cloud version.
 
-
+![open in desktop](./assets/edit-on-desktop.png)
 
 ## Commenting on Documents
 
@@ -78,6 +82,7 @@ You can leave comments directly in Word, Excel, or PowerPoint Online without edi
 - Use **@mentions** (e.g., `@Jane Smith`) inside a comment to notify a specific person.
 
 {: .note }
+
 > Comments are a great way to suggest changes or ask questions without modifying the document content.
 
 ## Version History
@@ -96,16 +101,17 @@ To share a document link with another board member:
 2. Select **Share**.
 
 ![SharePoint Share dialog](/crc-sc-help/assets/images/share-dialog.png)
-*The Share dialog in SharePoint — click the link settings to change who can access the file.*
+_The Share dialog in SharePoint — click the link settings to change who can access the file._
 {: .text-center }
 
 3. **Important**: Before sending, click the link settings (the gear or pencil icon next to the link) and select **"Only people with existing access"**.
 
 ![Selecting the sharing permission](/crc-sc-help/assets/images/share-permissions.png)
-*Make sure to select "Only people with existing access" to avoid sharing beyond the board.*
+_Make sure to select "Only people with existing access" to avoid sharing beyond the board._
 {: .text-center }
 
 4. Copy the link or enter the recipient's email and click **Send**.
 
 {: .warning }
+
 > Always verify the sharing option is set to **"Only people with existing access"**. This ensures documents are not accidentally shared with people outside the board.
