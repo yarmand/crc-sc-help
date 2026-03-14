@@ -68,7 +68,7 @@ IF you prefer the convinience of using your laptop application to edit board doc
 - when you save the document from hte laptop application, it will automatically update the online version
 - **Warning**: Do not Save As on the desktop application, this would create a local copy that is not synced with the cloud version.
 
-![open in desktop](/crc-sc-help/assets/images/sedit-on-desktop.png)
+![open in desktop](/crc-sc-help/assets/images/edit-on-desktop.png)
 
 ## Commenting on Documents
 
