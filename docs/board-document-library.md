@@ -56,6 +56,16 @@ Common folders you'll find:
 - Your changes are **saved automatically**.
 - Multiple people can edit the same document at the same time.
 
+## Edit Documents using desktop application
+IF you prefer the convinience of using your laptop application to edit board documents, do the following:
+- locate the document in the library using your web browser
+- open it in the browser
+- use the **open in desktop** button (see screenshot below)
+- when you save the document from hte laptop application, it will automatically update the online version
+- __Warning__: Do not Save As on the desktop application, this would create a local copy that is not synced with the cloud version.
+
+
+
 ## Commenting on Documents
 
 You can leave comments directly in Word, Excel, or PowerPoint Online without editing the document itself:
